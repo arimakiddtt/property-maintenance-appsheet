@@ -79,3 +79,28 @@ I built this to demonstrate:
 My real-world experience with Google AppSheet and relational design
 How low-code platforms can be extended with thoughtful architecture
 That I can deliver practical, scalable solutions without unnecessary complexity
+
+---
+
+## 📊 Sample Dataset (Excel)
+
+To help developers and implementers explore the underlying data structure used by this app, an Excel export of the relational Google Sheets datastore is provided below.
+
+> This file includes the following tables as separate worksheets:
+> - Jobs  
+> - Maintenance  
+> - Job Diary  
+> - Assets  
+> - Vendors  
+> - Locations  
+> - RBAC  
+> - Report Issue
+
+📥 [**Download Excel File**](data/properties-datastore.xlsx)
+
+---
+
+### 🛡️ Note:
+This file is for demonstration and analysis only.  
+It does **not** include any AppSheet expressions or logic — just the data modeling foundation.
+
