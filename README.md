@@ -1,5 +1,10 @@
 🏢 Property Maintenance App (Google AppSheet)
 
+![Platform: AppSheet](https://img.shields.io/badge/Platform-AppSheet-blue)  
+![Backend: Google Sheets](https://img.shields.io/badge/Backend-Google%20Sheets-brightgreen)  
+![License: MIT](https://img.shields.io/badge/License-MIT-green)
+
+
 This repository demonstrates the backend design and configuration strategy behind a low-code Property Maintenance application built using Google AppSheet and Google Sheets. The app supports maintenance tracking, vendor management, asset logging, and job diaries—designed for property departments or facilities teams.
 
 ⚠️ Access to Live App
