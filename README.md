@@ -64,7 +64,25 @@ SWITCH(
 Admins and developers are free to design their preferred enforcement logic.
 
 🖼️ Screenshots & Media
-Coming soon.
+
+---
+
+## 🎬 Demo Video
+
+This short demo walks through the coordination between head office and field staff using the Property Maintenance AppSheet application.
+
+Watch the full demo on YouTube:
+
+[![Watch the demo video](images/property-app-thumb.png)](https://youtu.be/GeCi8zTZeEo)
+
+This demo shows:
+- Job creation from head office
+- PO upload
+- Job Diary update from mobile
+- Role-based restrictions between office staff and field techs
+
+---
+
 
 Visual walkthroughs, UI screenshots, and demo videos will be added to this repo shortly.
 
